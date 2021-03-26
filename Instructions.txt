@@ -1,0 +1,8 @@
+First of all, make sure to click install python.bat this will take you to python.org/downloads 
+Click download latest 
+Run the .exe and MAKE SURE TO CLICK ADD PYTHON TO THE PATH
+
+After doing that click on install.bat this will install all dependencies you need in order to execute the code 
+When that is done click on start.bat this will start the script and it should pop up a window asking you to enter the amount of codes you want generated.
+Insert the amount you want and then it will ask you if you would like to use a webhook for discord if you insert one once it finds a code it is gonna send the code to that channel. If you chose to skip the webhook part once a valid code is found the script will stop it self.
+This is a nitro generator and checker meaning it checks every code so you don't have to do much.
